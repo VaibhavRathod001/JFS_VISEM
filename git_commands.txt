@@ -1,5 +1,16 @@
+initialisation repo
+git init
+git add .
+git commit -m "message or title"
+git remote add origin https://github.com/VaibhavRathod01-IARE/JFS_6th-Sem.git
+git checkout -b master
+git push origin main
+
 if you want to add any files in local repository or you can change the existing files in local repo
 1. git status
 2. git add .
 3. git commit -m "message"
 4. git push origin main
+-----------------------------------------------------------------------------------------------------
+> To display the hidden files
+	dir /a:h
